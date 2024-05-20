@@ -12,7 +12,7 @@ pip install -r requirements.txt
 ### Configuration
 To configure the chatbot, you need to create a `.env` file in the root directory and add the following variables:
 ```bash
-GOOGLE_API_KEY='your_weather_api_key'
+GOOGLE_API_KEY='your_google_api_key'
 ```
 
 ### Usage
